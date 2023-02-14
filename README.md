@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aynjel
 - 👀 I am an aspiring Web Developer
 - 🌱 JavaScript and PHP Framework
-- 📫 How to reach me : just email ortegacanillo76@gmail.com or 09271305088
+- 📫 How to reach me : just email ortegacanillo76@gmail.com or https://www.facebook.com/kobe.ortega.9/
 
 <!---
 aynjel/aynjel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
