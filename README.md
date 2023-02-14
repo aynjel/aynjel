@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aynjel
-- 👀 I’m interested in Web Development and Building Games
-- 🌱 I’m currently learning JavaScript and other JS Framework
+- 👀 I am an aspiring Web Developer
+- 🌱 JavaScript and PHP Framework
 - 📫 How to reach me : just email ortegacanillo76@gmail.com or 09271305088
 
 <!---
