@@ -2,7 +2,7 @@
 - 👀 I am an Web Developer
 - 🌱 JavaScript and PHP Framework
 - Fresh Gradute
-- 📫 How to reach me : just email ortegacanillo76@gmail.com or https://www.facebook.com/kobe.ortega.9/
+- 📫 How to reach me : just email ortegacanillo76@gmail.com
 
 <!---
 aynjel/aynjel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
