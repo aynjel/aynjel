@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aynjel
-- 👀 I am an aspiring Web Developer
+- 👀 I am an Web Developer
 - 🌱 JavaScript and PHP Framework
+- Fresh Gradute
 - 📫 How to reach me : just email ortegacanillo76@gmail.com or https://www.facebook.com/kobe.ortega.9/
 
 <!---
