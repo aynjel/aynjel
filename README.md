@@ -1,6 +1,6 @@
 👋 Hi there, I'm Angel Niño Ortega!
 
-🎓 A passionate graduate in Computer Science with a strong affinity for problem-solving and creative coding.
+🎓 A passionate graduate in Information Technology with a strong affinity for problem-solving and creative coding.
 
 💼 Currently exploring the world of software development and diving deep into web technologies.
 
