@@ -1,5 +1,5 @@
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=social)
+![GitHub stars](https://img.shields.io/github/stars/aynjel/your-repo-name?style=social)
+![GitHub forks](https://img.shields.io/github/forks/aynjel/your-repo-name?style=social)
 
 
 👋 Hi there, I'm Angel Niño Ortega!
