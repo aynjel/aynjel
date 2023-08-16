@@ -4,10 +4,10 @@
 
 👨‍💻 Full Stack Developer
 
-📧 Email: ortegacanillo76@gmail.com
-📞 Phone: +639271305088
-
 ## Connect with Me
+
+📧 Email: ortegacanillo76@gmail.com
+📞 Whatsapp: +639271305088
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>](https://www.linkedin.com/in/angel-ni%C3%B1o-ortega-947b32252/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>](https://twitter.com/aynjel17)
