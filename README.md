@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
+![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=social)
+
+
 👋 Hi there, I'm Angel Niño Ortega!
 
 🎓 A passionate graduate in Information Technology with a strong affinity for problem-solving and creative coding.
