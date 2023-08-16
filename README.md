@@ -1,5 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/aynjel/OJT-RMS-SYSTEM?style=social)
-![GitHub forks](https://img.shields.io/github/forks/aynjel/OJT-RMS-SYSTEM?style=social)
+![Animated Text]([images/animated-cat.gif](https://giphy.com/embed/HscDLzkO8EOTmgkhQP))
 
 
 👋 Hi there, I'm Angel Niño Ortega!
