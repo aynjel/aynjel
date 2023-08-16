@@ -9,11 +9,8 @@
 
 ## Connect with Me
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>](https://www.linkedin.com/in/your-linkedin-profile)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>](https://github.com/your-github-profile)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>](https://twitter.com/your-twitter-profile)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30"/>](https://www.instagram.com/your-instagram-profile)
-
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>](https://www.linkedin.com/in/angel-ni%C3%B1o-ortega-947b32252/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>](https://twitter.com/aynjel17)
 
 ## About Me
 
