@@ -4,16 +4,12 @@
 
 👨‍💻 Full Stack Developer
 
-📚 **Tech Skills**: HTML/CSS, PHP, JavaScript, C#, C++, SASS, ReactJS, Node.js, Laravel, jQuery, Tailwind CSS, Bootstrap, Kodular
-
 📧 Email: ortegacanillo76@gmail.com
 📞 Phone: +639271305088
 
 ## About Me
 
 I am a passionate and skilled Full Stack Developer with a Bachelor's degree in Information Technology. I have experience in a wide range of technologies, including HTML/CSS, PHP, JavaScript, C#, C++, SASS, ReactJS, Node.js, Laravel, jQuery, Tailwind CSS, Bootstrap, and Kodular.
-
-## Tech Skills
 
 ## Tech Skills
 
@@ -29,7 +25,7 @@ I am a passionate and skilled Full Stack Developer with a Bachelor's degree in I
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/> jQuery
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> Tailwind CSS
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> Bootstrap
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kodular/kodular-original.svg" alt="Kodular" width="40" height="40"/> Kodular
+- <img src="https://play-lh.googleusercontent.com/Y6-JGDLlQvQmeIK3L-vDRluNeWOTBJQTUsDGXckBEYcFcpJjZ-WB5oErtnhJbgnJFbNM" alt="Kodular" width="40" height="40"/> Kodular
 
 
 ## GitHub Analytics
