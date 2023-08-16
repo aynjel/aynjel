@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here are some quick stats about me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynjel&layout=compact)](https://github.com/aynjel)
 
-## Recent Activity
+## GitHub Activity Graph
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aynjel&bg_color=ffffff&color=20232a&line=209ed4&point=24292e&hide_border=true)](https://github.com/aynjel)
 
