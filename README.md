@@ -1,13 +1,10 @@
-![Aynjel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aynjel&show_icons=true&theme=radical)
-
-
 # Angel Niño C. Ortega
 
 🎓 Fresh Graduate of Bachelor of Science in Information Technology
 
 👨‍💻 Full Stack Developer
 
-📚 Tech Skills: HTML/CSS, PHP, JavaScript, C#, C++, SASS, ReactJS, Node.js, Laravel, jQuery, Tailwind CSS, Bootstrap, Kodular
+📚 **Tech Skills**: HTML/CSS, PHP, JavaScript, C#, C++, SASS, ReactJS, Node.js, Laravel, jQuery, Tailwind CSS, Bootstrap, Kodular
 
 📧 Email: ortegacanillo76@gmail.com
 📞 Phone: +639271305088
@@ -32,7 +29,10 @@ I am a passionate and skilled Full Stack Developer with a Bachelor's degree in I
 - Bootstrap
 - Kodular
 
-## Contact Me
+## GitHub Analytics
 
-📧 Email: ortegacanillo76@gmail.com
-📞 Phone: +639271305088
+![Aynjel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aynjel&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynjel&layout=compact&theme=radical)](https://github.com/aynjel)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aynjel&theme=radical)
