@@ -1,5 +1,4 @@
-![Animated Text](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
-
+![Total Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faynjel)
 
 👋 Hi there, I'm Angel Niño Ortega!
 
