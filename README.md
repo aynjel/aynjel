@@ -1,16 +1,16 @@
+## GitHub Analytics
+
+![Aynjel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aynjel&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynjel&layout=compact&theme=radical)](https://github.com/aynjel)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aynjel&theme=radical)
+
 # Angel Niño C. Ortega
 
 🎓 Fresh Graduate of Bachelor of Science in Information Technology
 
 👨‍💻 Full Stack Developer
-
-## Connect with Me
-
-📧 Email: ortegacanillo76@gmail.com
-📞 Whatsapp: +639271305088
-
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>](https://www.linkedin.com/in/angel-ni%C3%B1o-ortega-947b32252/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>](https://twitter.com/aynjel17)
 
 ## About Me
 
@@ -32,11 +32,10 @@ I am a passionate and skilled Full Stack Developer with a Bachelor's degree in I
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> Bootstrap
 - <img src="https://play-lh.googleusercontent.com/Y6-JGDLlQvQmeIK3L-vDRluNeWOTBJQTUsDGXckBEYcFcpJjZ-WB5oErtnhJbgnJFbNM" alt="Kodular" width="40" height="40"/> Kodular
 
+## Connect with Me
 
-## GitHub Analytics
+📧 Email: ortegacanillo76@gmail.com
+📞 Whatsapp: +639271305088
 
-![Aynjel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aynjel&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynjel&layout=compact&theme=radical)](https://github.com/aynjel)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aynjel&theme=radical)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>](https://www.linkedin.com/in/angel-ni%C3%B1o-ortega-947b32252/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>](https://twitter.com/aynjel17)
