@@ -1,4 +1,4 @@
-![Animated Text]([images/animated-cat.gif](https://giphy.com/embed/HscDLzkO8EOTmgkhQP))
+![Animated Text](https://giphy.com/embed/HscDLzkO8EOTmgkhQP)
 
 
 👋 Hi there, I'm Angel Niño Ortega!
