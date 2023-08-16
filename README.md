@@ -1,3 +1,6 @@
+![Aynjel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aynjel&show_icons=true&theme=radical)
+
+
 # Angel Niño C. Ortega
 
 🎓 Fresh Graduate of Bachelor of Science in Information Technology
