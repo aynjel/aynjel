@@ -1,4 +1,4 @@
-![Animated Text](https://giphy.com/embed/HscDLzkO8EOTmgkhQP)
+![Animated Text](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
 
 
 👋 Hi there, I'm Angel Niño Ortega!
