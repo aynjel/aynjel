@@ -6,6 +6,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aynjel&theme=radical)
 
+![GitHub Followers](https://img.shields.io/github/followers/aynjel?style=social)
+
 # Angel Niño C. Ortega
 
 🎓 Fresh Graduate of Bachelor of Science in Information Technology
