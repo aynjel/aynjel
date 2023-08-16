@@ -7,6 +7,14 @@
 📧 Email: ortegacanillo76@gmail.com
 📞 Phone: +639271305088
 
+## Connect with Me
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>](https://www.linkedin.com/in/your-linkedin-profile)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>](https://github.com/your-github-profile)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>](https://twitter.com/your-twitter-profile)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30"/>](https://www.instagram.com/your-instagram-profile)
+
+
 ## About Me
 
 I am a passionate and skilled Full Stack Developer with a Bachelor's degree in Information Technology. I have experience in a wide range of technologies, including HTML/CSS, PHP, JavaScript, C#, C++, SASS, ReactJS, Node.js, Laravel, jQuery, Tailwind CSS, Bootstrap, and Kodular.
