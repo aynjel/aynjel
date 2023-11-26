@@ -25,10 +25,10 @@
  <a href="https://twitter.com/aynjel17" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/" target="_blank">
+ <a href="https://www.instagram.com/aynjel.12.23" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="aynjel" />
  </a> 
- <a href="https://facebook.com/" target="_blank">
+ <a href="https://www.facebook.com/kobe.ortega.9" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="aynjel"  />
   </a> 
 </p>
@@ -73,11 +73,11 @@
 
 <br/>
 
-<!-- ## Top Open Source -
+## Top Open Source -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=aynjel&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aynjel/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=aynjel&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aynjel/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=aynjel&repo=aynjel&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aynjel/aynjel)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=aynjel&repo=aynjel.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aynjel/aynjel.github.io) -->
+[![Anggi Folio](https://github-readme-stats.vercel.app/api/pin/?username=aynjel&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aynjel/al-folio)
+[![Anggi Readme](https://github-readme-stats.vercel.app/api/pin/?username=aynjel&repo=aynjel&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aynjel/aynjel)
+[![Anggi Teminal](https://github-readme-stats.vercel.app/api/pin/?username=aynjel&repo=aynjel.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aynjel/aynjel.github.io)
 
 <p align="left">
   <a href="https://github.com/aynjel?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
