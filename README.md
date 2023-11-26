@@ -38,7 +38,7 @@
  # About me
 
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
   
  👨‍👨‍👧‍👧 &emsp; ![GitHub Followers](https://img.shields.io/github/followers/aynjel?style=social)<br/><br/>
  ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
