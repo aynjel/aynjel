@@ -1,6 +1,6 @@
 
 <!-- Intro  -->
-<h3 align="center"><samp>&gt; Hey There!, I am <b><a target="_blank" href="https://aynjel.com">Anggi</a></b></samp></h3>
+<h3 align="center"><samp>&gt; Hey There!, I am <b><a target="_blank" href="https://aynjel.github.io/anggi-portfolio">Anggi</a></b></samp></h3>
 
 <p align="center"> 
   <samp>
