@@ -6,7 +6,7 @@
   <samp>
     [<a href="https://www.google.com/search?q=angel+niño+ortega"> Google Me </a>]
     <br>
-    [ I am a full stack web application developer from <b>Philippines</b> ]
+    [ I am a Web Developer from <b>Philippines</b> ]
     <br>
     <br>
   </samp>
@@ -41,9 +41,8 @@
  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
   
  👨‍👨‍👧‍👧 &emsp; ![GitHub Followers](https://img.shields.io/github/followers/aynjel?style=social)<br/><br/>
- ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: aynjel76@gmail.com<br/><br/>
+ ✌️ &emsp; I learn by doing <br/><br/>
+ 📧 &emsp; Reach me anytime: ortegacanillo76@gmail.com <br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/aynjel/aynjel/issues)<br/><br/>
 </p>
 
