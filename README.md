@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
- <a href="https://aynjel.github.io/anggi-portfolio" target="blank">
+ <a href="https://anggi-portfolio.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="aynjel" />
  </a>
  <a href="https://ph.linkedin.com/in/angel-ni%C3%B1o-ortega-947b32252" target="_blank">
