@@ -50,8 +50,7 @@
  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
   
  👨‍👨‍👧‍👧 &emsp; ![GitHub Followers](https://img.shields.io/github/followers/aynjel?style=social)<br/><br/>
- ✌️ &emsp; A self-taught developer who loves to code and learn new things. <br/>
- 📧 &emsp; Reach me anytime: ortegacanillo76@gmail.com <br/>
+ ✌️ &emsp; A self-taught developer who loves to code and learn new things. <br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/aynjel/aynjel/issues)<br/>
 </p>
 
